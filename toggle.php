@@ -5,24 +5,24 @@ header('Cache-Control: no-cache, must-revalidate');
 // Edit these codes for each outlet
 $codes = array(
     "1" => array(
-        "on" => 349491,
-        "off" => 349500
+        "on" => 5575987,
+        "off" => 5575996
     ),
     "2" => array(
-        "on" => 349635,
-        "off" => 349644
+        "on" => 5576131,
+        "off" => 5576140
     ),
     "3" => array(
-        "on" => 349955,
-        "off" => 349964
+        "on" => 5576451,
+        "off" => 5576460
     ),
     "4" => array(
-        "on" => 351491,
-        "off" => 351500
+        "on" => 5577987,
+        "off" => 5577996
     ),
     "5" => array(
-        "on" => 357635,
-        "off" => 357644
+        "on" => 5584131,
+        "off" => 5584140
     ),
 );
 
